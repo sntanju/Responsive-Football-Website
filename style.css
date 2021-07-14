@@ -72,6 +72,26 @@ body{
 }
 /* highlights style start  */
 .highlights{
-    font-size: 50px;
-    font-weight: 500px;
+    display: flex;
+   
+    margin-left:195px ;
+    margin-right: 69px;
+    margin-top: 165px;
 }
+.highlight-name{
+    margin-top: 70px;
+    font-size: 48px;
+    font-weight: 700px;
+    line-height: 60px;
+}
+.match-image img{
+    height: 427px;
+    width: 567px;
+    left: 717px;
+    top: 2889px;
+    border-radius: 0px;    
+}
+/* highlight style end  */
+
+/* footer style start  */
+
